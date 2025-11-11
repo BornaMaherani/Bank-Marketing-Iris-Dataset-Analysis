@@ -20,7 +20,7 @@ To run the notebooks and code in this repository, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/ML-HW1.git
+    git clone https://github.com/BornaMaherani/Bank-Marketing-Iris-Dataset-Analysis.git
     cd ML-HW1
     ```
 
